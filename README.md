@@ -28,11 +28,11 @@ apt upgrade
 
 apt install git
 
-git clone https://github.com/C7836-5M1L3/NUMBER-REPORTING
+git clone https://github.com/cyberluiz0/NUMBER-REPORTING
 
-cd NUMBER-REPORTING
+cd NUMBER-REPORTING-luiz
 
-bash report.sh
+bash luiz-report.sh
 ```
 
 ### Screen shot!
