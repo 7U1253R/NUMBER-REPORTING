@@ -30,9 +30,9 @@ apt install git
 
 git clone https://github.com/cyberluiz0/NUMBER-REPORTING
 
-cd NUMBER-REPORTING-luiz
+cd NUMBER-REPORTING
 
-bash luiz-report.sh
+bash luiz.sh
 ```
 
 ### Screen shot!
