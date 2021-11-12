@@ -32,7 +32,7 @@ git clone https://github.com/cyberluiz0/NUMBER-REPORTING
 
 cd NUMBER-REPORTING
 
-bash luiz.sh
+bash report.sh
 ```
 
 ### Screen shot!
